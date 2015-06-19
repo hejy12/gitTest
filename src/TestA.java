@@ -10,6 +10,6 @@
 
 public class TestA {
 	public static void main(String[] args){
-		System.out.println("aaa1");
+		System.out.println("a1");
 	}
 }
